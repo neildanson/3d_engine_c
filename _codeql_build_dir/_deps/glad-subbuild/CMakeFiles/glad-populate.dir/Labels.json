@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/CMakeFiles/glad-populate"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/CMakeFiles/glad-populate.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/CMakeFiles/glad-populate-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test.rule"
+		},
+		{
+			"file" : "/home/runner/work/3d_engine_c/3d_engine_c/_codeql_build_dir/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glad-populate"
+		],
+		"name" : "glad-populate"
+	}
+}

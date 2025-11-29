@@ -1,0 +1,2 @@
+/usr/bin/ar qc libengine.a CMakeFiles/engine.dir/engine/core/engine.c.o CMakeFiles/engine.dir/engine/input/input.c.o CMakeFiles/engine.dir/engine/renderer/mesh.c.o CMakeFiles/engine.dir/engine/renderer/shader.c.o CMakeFiles/engine.dir/engine/renderer/camera.c.o CMakeFiles/engine.dir/engine/resource/obj_loader.c.o CMakeFiles/engine.dir/engine/resource/terrain.c.o
+/usr/bin/ranlib libengine.a

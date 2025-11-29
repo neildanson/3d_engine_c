@@ -31,6 +31,8 @@ void enemy_manager_destroy(EnemyManager* manager) {
 }
 
 void enemy_manager_set_mesh(EnemyManager* manager, Mesh* mesh) {
+    if (!manager) return;
+    
     manager->shared_mesh = mesh;
     
     /* Update all existing enemies */
