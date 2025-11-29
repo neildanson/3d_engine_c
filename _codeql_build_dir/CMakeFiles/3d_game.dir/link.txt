@@ -1,1 +1,0 @@
-/home/runner/work/3d_engine_c/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/3d_game.dir/link.d CMakeFiles/3d_game.dir/main.c.o -o 3d_game  libgame.a libengine.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 _deps/glad-build/libglad.a -lm
