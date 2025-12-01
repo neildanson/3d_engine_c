@@ -4,8 +4,10 @@
 # Object files
 *.o
 *.ko
-*.obj
 *.elf
+
+# Keep .obj model files
+!assets/models/*.obj
 
 # Linker output
 *.ilk
@@ -53,3 +55,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build directories
+build/
+cmake-build-*/
+.vscode/
+.idea/
+
+# CodeQL artifacts
+_codeql_build_dir/
+_codeql_detected_source_root
